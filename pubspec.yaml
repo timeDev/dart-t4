@@ -1,0 +1,5 @@
+name: dart_t4
+version: 0.1.0
+author: timed
+description: An implementation of the text template transformation toolkit in dart
+homepage: http://github.com/timeDev/dart-t4
